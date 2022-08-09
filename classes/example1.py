@@ -48,5 +48,5 @@ if __name__ == "__main__":
     print('object=>', ptn)
 
     print('square perimeter', sqr.perimeter())
-    print('triangle perimeter', tri.perimeter())
+    print('triangle perimeter', tri.perimeter(50))
     print('pentagon perimeter', ptn.perimeter())
